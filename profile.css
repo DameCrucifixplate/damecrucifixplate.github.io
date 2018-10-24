@@ -1,0 +1,152 @@
+
+
+
+
+
+
+header {
+	text-align:center;  
+	border:3px solid white; 
+	background-image:linear-gradient(white, black);
+	opacity:0.95;
+	width:100%;
+	margin-top:0px;
+	margin-bottom:50px;
+	max-width:900px;
+	
+}
+
+header img {
+	border-radius:20px;
+	
+}
+
+
+h2 {
+	color:black; 
+	font-size: 40;
+}
+
+
+#video {
+	position:flex;
+	justify-content:center;
+
+
+}
+
+
+header p {
+	color:white;
+}
+
+h1 {
+	font-family: : 'Lobster', cursive; font-size: 60;
+}
+
+body {
+	font-family: 'Acme', sans-serif; background-image:url("https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX2478232.jpg");
+	width:100%; max-width: 900px; 
+	margin: 0 auto;
+}
+
+.aboutme {
+	padding:20px; 
+	border:2px solid red; 
+	margin:15px; 
+	background-color:rgba(255, 60, 42, 0.8); 
+	width:98%;
+	
+}
+
+section:hover {
+	background-color:white;
+	opacity:1
+	} 
+
+
+
+.hobby {
+	padding:20px; 
+	border:2px solid orange; 
+	margin:15px; 
+	background-color:rgba(255, 136, 50, 0.8); 
+	width:98%;
+}
+
+.gallery {
+    justify-content: space-around;
+	padding:20px; 
+	background-color: rgba(242, 217, 41, 0.8);
+	border:2px solid yellow; 
+	margin:15px;
+	width:98%;
+}		
+
+.gallery img {
+	
+	padding:10px;
+
+	
+}
+
+.gallery div {
+	display:flex;
+	flex-direction:row;
+	justify-content:space-around;
+	flex-wrap: wrap;
+	
+}
+
+.chill {
+	padding:20px;
+	border:2px solid green; 
+	margin:15px; 
+	background-color: rgba(129, 238, 85, 0.8); 
+	width:98%;
+	
+}
+
+.table {
+	padding:20px; 
+	border:2px solid blue; 
+	margin:15px; 
+	background-color: rgba(129, 214, 241, 0.8);
+	width:98%;
+	
+	
+}
+
+
+
+.realtable{
+	border:1px solid black ;
+	border-top:1px solid black !important;
+}
+
+
+
+.foot {
+	position:fixed;
+	bottom:0px;
+	right:0px;
+	color:deeppink;
+	background-color: white;
+	font-size: 20px;
+}
+
+/*section{background-color:black !important;}*/
+
+
+table {
+	margin:0 auto;
+	width:50%;
+	
+}
+
+
+
+
+
+
+
